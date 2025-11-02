@@ -298,19 +298,16 @@ eurovision-analytics/
 ## 📈 Key Visualizations
 
 ### General Competition Overview
-![Dashboard Tab 1](visualizations/general_overview.png)
 *Comprehensive view showing participation patterns, song quality correlation, and performance composition*
 
 ### Voting & Performance Trends
-![Dashboard Tab 2](visualizations/voting_trends.png)
 *Deep dive into home advantage, regional voting blocs, and top-performing countries*
 
 ### Home Advantage Effect
-![Home vs Away](visualizations/home_advantage_chart.png)
 *Clear visualization of the 65% score boost when performing at home*
 
 ### Song Quality Predictive Power
-![Correlation Analysis](visualizations/song_quality_scatter.png)
+
 *Scatter plot with trendline showing R² = 0.9413 relationship*
 
 ## 💡 Strategic Recommendations
@@ -460,10 +457,13 @@ I specialize in Excel-based statistical analysis, dashboard design, and extracti
 - Strategic communication (translating R² values into actionable recommendations)
 
 **Let's connect:**
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 📧 **Email**: your.email@example.com
-- 🐙 **GitHub**: [@YourGitHubUsername](https://github.com/YourGitHubUsername)
-- 📊 **Portfolio**: [More Projects](https://yourportfolio.com)
+📧 Email: Chainzmubarak2003@gmail.com
+
+LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+
+upwork: https://www.upwork.com/freelancers/~01c100bccc1a9bf5c9
+
+twitter: https://x.com/Chainzzee
 
 ---
 
